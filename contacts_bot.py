@@ -159,9 +159,9 @@ COMMANDS_LIST = {"hello": hello,
                  "exit": exit}
 
 CONTACT_DICT = {"Bob Marley": "0967845456",
-                "Borys Jonson": "0967845456",
-                "Lara Croft": "0967845456",
-                "Bred Pitt": "0967845456"}
+                "Borys Jonson": "0967845111",
+                "Lara Croft": "0967111456",
+                "Bred Pitt": "0961223456"}
 
 
 
