@@ -30,7 +30,7 @@ def get_func_from_text(input_text: str):
 def help(*args):
     return f"""Hello! I am contact manager bot!
 I can add new contact with command: 'add', use following syntax: add 'contact name, phone'
-I can change new contact with command: 'add', use following syntax: add 'contact name, phone'
+I can change new contact with command: 'add', use following syntax: change 'contact name, phone'
 I can find contact by phone with command: 'phone', use following syntax: phone 'contact name'
 For viewing all list use command: 'show'
 For exit use commands: 'stop', 'close', 'exit' or 'good bye'"""
